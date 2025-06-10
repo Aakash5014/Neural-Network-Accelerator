@@ -1,7 +1,9 @@
-**Neural Network-based Gas Classification with Concentration Display on Nexys artix 7 FPGA.**
+<h3>**Neural Network-based Gas Classification with Concentration Display on Nexys artix 7 FPGA.**<h3>
 
-OBJECTIVE:
+<h4>OBJECTIVE:<h4>
             Design a neural network that classifies gases based on sensor data (e.g., from MQ-series sensors), identifies the gas with the highest probability of presence, and displays its concentration using a seven-segment display. The complete implementation should be synthesized and deployed on an FPGA using Verilog and Vivado.
+
+
 
 SYSTEM OVERVIEW:
 Inputs:
